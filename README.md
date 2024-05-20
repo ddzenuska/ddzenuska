@@ -6,6 +6,4 @@ A software enginee interested in making efficient solutions, developing my skill
 
 I have experience in working with range of languages and frameworks, including JavaScript, TypeScript, Java, Spring Boot, GIT, Unit & Integration testing and have touched the surface of React with TanStack Router and Query.
 
-My three favourite projects have been 
-
 Feel free to reach out to me via email at ddzenuska@gmail.com or connect with me on LinkedIn.
