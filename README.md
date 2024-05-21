@@ -2,9 +2,7 @@
 
 ![LinkedIn](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdeivids-dzenuska-8083b7242%2F?style=flat&logo=LinkedIn&label=LinkedIn&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdeivids-dzenuska-8083b7242%2F)
 
-A software developer, interested in making efficient and innovative solutions. Dedicated to continuous learning, skill development and to working with great people!
-
-I have experience in working GIT, OOP Java & Spring, Unit testing, JPA, SQL and have touched the surface of Frontend basics with Angular.
+A software developer, interested in making efficient and innovative solutions, with experience in working with GIT, OOP Java & Spring, Unit testing, JPA, SQL and touching the surface of Frontend basics with Angular. Dedicated to continuous learning, skill development and to working with great people!
 
 
 I have learned a lot from my favorite projects, including:
