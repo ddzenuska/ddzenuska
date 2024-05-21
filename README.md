@@ -2,7 +2,7 @@
 
 ![LinkedIn](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdeivids-dzenuska-8083b7242%2F?style=flat&logo=LinkedIn&label=LinkedIn&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdeivids-dzenuska-8083b7242%2F)
 
-A software developer, interested in making efficient and innovative solutions. Dedicated to continuous learning, skill development and working with great people. 
+A software developer, interested in making efficient and innovative solutions. Dedicated to continuous learning, skill development and to working with great people. 
 
 I have experience in working with a range of languages and frameworks, including JavaScript, TypeScript, Java, Spring Boot, GIT, Unit & Integration testing and have touched the surface of React with TanStack Router and Query.
 
