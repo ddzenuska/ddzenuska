@@ -7,8 +7,8 @@ A software developer, interested in making efficient and innovative solutions. D
 I have experience in working GIT, OOP Java & Spring, Unit testing, JPA, SQL and have touched the surface of Frontend basics with Angular.
 
 My three favourite projects are:
-* Flight Planner - Java application with Spring Boot, featuring airport/flight search, flight addition, and admin/customer access. Managed backend with dBeaver.
-* Trivia Game - Java terminal game presenting API-retrieved questions with randomised answer choices.
-* Theatre Ticket Selling - Java multithreading program simulating ticket rush, ensuring correct sales by synchronising ticket list access and handling unavailability.
+* Flight Planner - an application developed in Java using Spring Boot framework, featuring airport and flight search, flight addition, and differentiated access for customers and admins. The backend database system managed with dBeaver.
+* Trivia Game - Java terminal-based trivia game that presents users with questions retrieved from an API, offering randomized answer choices.
+* Theatre Ticket Selling - Java multithreading program simulating a rush to buy limited tickets, ensuring correct sales by synchronizing access to the ticket list and handling unavailability gracefully.
 
 Feel free to reach out to me via email at ddzenuska@gmail.com or connect with me on LinkedIn.
