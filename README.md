@@ -6,7 +6,8 @@ A software developer, interested in making efficient and innovative solutions. D
 
 I have experience in working GIT, OOP Java & Spring, Unit testing, JPA, SQL and have touched the surface of Frontend basics with Angular.
 
-My three favourite projects are:
+
+I have learned a lot from my favorite projects, including:
 * Flight Planner - an application developed in Java using Spring Boot framework, featuring airport and flight search, flight addition, and differentiated access for customers and admins. The backend database system managed with dBeaver.
 * Trivia Game - Java terminal-based trivia game that presents users with questions retrieved from an API, offering randomized answer choices.
 * Theatre Ticket Selling - Java multithreading program simulating a rush to buy limited tickets, ensuring correct sales by synchronizing access to the ticket list and handling unavailability gracefully.
