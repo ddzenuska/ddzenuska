@@ -4,7 +4,7 @@
 
 A software developer, interested in making efficient and innovative solutions. Dedicated to continuous learning, skill development and to working with great people. 
 
-I have experience in working with a range of languages and frameworks, including JavaScript, TypeScript, Java, Spring Boot, GIT, Unit & Integration testing and have touched the surface of React with TanStack Router and Query.
+I have experience in working JavaScript, TypeScript, Java, Spring Boot, GIT, Unit & Integration testing and have touched the surface of React with TanStack Router and Query.
 
 My three most favourite projects were:
 * Flight Planner - Java application with Spring Boot, featuring airport/flight search, flight addition, and admin/customer access. Managed backend with dBeaver.
