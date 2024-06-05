@@ -10,4 +10,4 @@ I have learned a lot from my favorite projects, including:
 * Trivia Game - Java terminal-based trivia game that presents users with questions retrieved from an API, offering randomized answer choices.
 * Theatre Ticket Selling - Java multithreading program simulating a rush to buy limited tickets, ensuring correct sales by synchronizing access to the ticket list and handling unavailability gracefully.
 
-Feel free to reach out to me via email at ddzenuska@gmail.com or connect with me on LinkedIn.
+Feel free to reach out to me via email ddzenuska@gmail.com or to connect with me on LinkedIn.
